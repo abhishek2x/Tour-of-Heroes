@@ -1,10 +1,20 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+**Live Project Demo:**: <a href="https://abhishek2x.github.io/Tour-of-Heroes/">https://abhishek2x.github.io/Tour-of-Heroes/</a>
+
+## Images
+
+<img src="./readme-images/1.png">
+
+---
+
+<img src="./readme-images/2.png">
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Fork and Clone the repository. Run `npm i` to install dependencies.
+
+* Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -25,4 +35,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Tour-of-Heroes
+
+---
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
